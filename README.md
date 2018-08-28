@@ -1,1 +1,1 @@
-# DSAndAlgorithmsInJava
+# DSAndAlgorithms
